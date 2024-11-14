@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\bin\Debug\net8.0\Week15-OOP.exe
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\bin\Debug\net8.0\Week15-OOP.deps.json
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\bin\Debug\net8.0\Week15-OOP.runtimeconfig.json
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\bin\Debug\net8.0\Week15-OOP.dll
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\bin\Debug\net8.0\Week15-OOP.pdb
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\Week15-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\Week15-OOP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\Week15-OOP.AssemblyInfo.cs
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\Week15-OOP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\Week15-OOP.dll
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\refint\Week15-OOP.dll
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\Week15-OOP.pdb
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\Week15-OOP.genruntimeconfig.cache
+C:\Users\User\source\repos\Week15-OOP\Week15-OOP\obj\Debug\net8.0\ref\Week15-OOP.dll
